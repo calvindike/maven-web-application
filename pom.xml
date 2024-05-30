@@ -97,13 +97,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Searise Technologies Releases Nexus Repository</name>
-	      <url> http://3.215.186.180:8081/repository/tesla-releases/</url>
+	      <url>http://54.237.227.113:8081/repository/cicd_project-releases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Searise Technologies Snapshot Nexus Repository </name>
-	      <url>http://3.215.186.180:8081/repository/tesla-snapshot/</url>
+	      <url>http://54.237.227.113:8081/repository/cicd_project-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
